@@ -1,0 +1,24 @@
+.delete-student-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    padding: 30px;
+    border-radius: 15px;
+  }
+  
+  h2.text-danger {
+    font-weight: bold;
+  }
+  
+  .btn-danger, .btn-secondary {
+    padding: 10px 20px;
+    border-radius: 50px;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+  }
+  

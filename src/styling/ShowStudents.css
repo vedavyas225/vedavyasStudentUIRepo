@@ -1,0 +1,22 @@
+.student-list h1 {
+    color: #343a40;
+  }
+  
+  .card {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .btn-sm {
+    font-size: 0.9rem;
+  }
+  
+  .card-body {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  

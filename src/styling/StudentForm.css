@@ -1,0 +1,26 @@
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    border-radius: 15px;
+    padding: 30px;
+  }
+  
+  .card h2 {
+    color: #007bff;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+  }
+  
